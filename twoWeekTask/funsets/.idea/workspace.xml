@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f791140-f561-4104-b352-38d6da872f5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hsOMhuW9MiFTuKf97HlQJbuvSC" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.FunSetSuite.map$u0020returns$u0020a$u0020set$u0020transformed$u0020by$u0020applying$u0020f$u0020to$u0020each$u0020element$u0020of$u0020s">
+    <configuration name="FunSetSuite.exists$u0020returns$u0020whether$u0020there$u0020exists$u0020a$u0020bounded$u0020integer$u0020within$u0020s$u0020that$u0020satisfies$u0020p" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-funsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="funsets" />
+      <option name="MAIN_CLASS_NAME" value="funsets.FunSetSuite" />
+      <option name="METHOD_NAME" value="exists$u0020returns$u0020whether$u0020there$u0020exists$u0020a$u0020bounded$u0020integer$u0020within$u0020s$u0020that$u0020satisfies$u0020p" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunSetSuite.filter$u0020returns$u0020the$u0020subset$u0020of$u0020s$u0020for$u0020which$u0020p$u0020holds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-funsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="funsets" />
+      <option name="MAIN_CLASS_NAME" value="funsets.FunSetSuite" />
+      <option name="METHOD_NAME" value="filter$u0020returns$u0020the$u0020subset$u0020of$u0020s$u0020for$u0020which$u0020p$u0020holds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunSetSuite.forall$u0020returns$u0020whether$u0020all$u0020bounded$u0020integers$u0020within$u0020s$u0020satisfy$u0020p" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-funsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="funsets" />
+      <option name="MAIN_CLASS_NAME" value="funsets.FunSetSuite" />
+      <option name="METHOD_NAME" value="forall$u0020returns$u0020whether$u0020all$u0020bounded$u0020integers$u0020within$u0020s$u0020satisfy$u0020p" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunSetSuite.map$u0020returns$u0020a$u0020set$u0020transformed$u0020by$u0020applying$u0020f$u0020to$u0020each$u0020element$u0020of$u0020s" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-funsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="funsets" />
+      <option name="MAIN_CLASS_NAME" value="funsets.FunSetSuite" />
+      <option name="METHOD_NAME" value="map$u0020returns$u0020a$u0020set$u0020transformed$u0020by$u0020applying$u0020f$u0020to$u0020each$u0020element$u0020of$u0020s" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunSetSuite.returns$u0020the$u0020subset$u0020of$u0020s$u0020for$u0020which$u0020p$u0020holds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-funsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="funsets" />
+      <option name="MAIN_CLASS_NAME" value="funsets.FunSetSuite" />
+      <option name="METHOD_NAME" value="returns$u0020the$u0020subset$u0020of$u0020s$u0020for$u0020which$u0020p$u0020holds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FunSetSuite.map$u0020returns$u0020a$u0020set$u0020transformed$u0020by$u0020applying$u0020f$u0020to$u0020each$u0020element$u0020of$u0020s" />
+        <item itemvalue="JUnit.FunSetSuite.exists$u0020returns$u0020whether$u0020there$u0020exists$u0020a$u0020bounded$u0020integer$u0020within$u0020s$u0020that$u0020satisfies$u0020p" />
+        <item itemvalue="JUnit.FunSetSuite.forall$u0020returns$u0020whether$u0020all$u0020bounded$u0020integers$u0020within$u0020s$u0020satisfy$u0020p" />
+        <item itemvalue="JUnit.FunSetSuite.filter$u0020returns$u0020the$u0020subset$u0020of$u0020s$u0020for$u0020which$u0020p$u0020holds" />
+        <item itemvalue="JUnit.FunSetSuite.returns$u0020the$u0020subset$u0020of$u0020s$u0020for$u0020which$u0020p$u0020holds" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-funsets" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="funsets [file:/Users/kex/Desktop/Квартплата24/2%20Принципы%20функционального%20программирования%20на%20Scala/2%20неделя/funsets/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-funsets-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9428835876000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3399401617" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../projekts/MartinSeeler/akka-cluster-chat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example222" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f791140-f561-4104-b352-38d6da872f5c" name="Default Changelist" comment="" />
+      <created>1600796286930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600796286930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600796348110">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="433" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1600796348110" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1600934967965">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600934967965" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1600934967964">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600934967964" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1600934967964">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600934967964" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1600934967965">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600934967965" />
+    <state x="397" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1600892002523">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="277" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1600892002523" />
+  </component>
+</project>
