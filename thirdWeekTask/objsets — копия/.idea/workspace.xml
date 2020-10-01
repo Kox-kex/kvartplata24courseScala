@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bb44813-52ca-4ff9-8279-6b5e70705589" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hy1QRckfiGZmrOfZEBwqAjlNVN" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="objsets.Main" />
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.descending$colon$u0020set5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="descending$colon$u0020set5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.union$colon$u0020with$u0020empty$u0020set1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="union$colon$u0020with$u0020empty$u0020set1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.union$colon$u0020with$u0020empty$u0020set2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="union$colon$u0020with$u0020empty$u0020set2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TweetSetSuite" />
+        <item itemvalue="JUnit.TweetSetSuite.descending$colon$u0020set5" />
+        <item itemvalue="JUnit.TweetSetSuite.union$colon$u0020with$u0020empty$u0020set2" />
+        <item itemvalue="JUnit.TweetSetSuite.union$colon$u0020with$u0020empty$u0020set1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-objsets" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="objsets [file:/Users/kex/Desktop/Квартплата24/2%20Принципы%20функционального%20программирования%20на%20Scala/3%20неделя/objsets/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-objsets-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9428835876000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1371009884" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../projekts/MartinSeeler/akka-cluster-chat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../2 неделя/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example222" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bb44813-52ca-4ff9-8279-6b5e70705589" name="Default Changelist" comment="" />
+      <created>1600968502540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600968502540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1601283089181">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1601283089181" />
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601322548905">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1601322548905" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601360949013">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601360949013" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601360949012">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601360949012" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601360949011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601360949011" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601360949012">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601360949012" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1601322582131">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601322582131" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1601322582130">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601322582130" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1601322582130">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601322582130" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1601322582131">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601322582131" />
+    <state x="397" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1601322645630">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="273" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1601322645630" />
+    <state x="97" y="64" key="new project wizard" timestamp="1601018189476">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="64" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1601018189476" />
+  </component>
+</project>
