@@ -1,0 +1,21 @@
+
+9
+	build.sbt,7/4/74b95601c3a6d9d565cd312fac64094ec0f9d847
+9
+	webui.sbt,4/9/49b9210a7172f6383ff4c4c7e27723a1a7a0d0f2
+c
+3web-ui/src/main/scala/calculator/CalculatorUI.scala,6/b/6b060c280332983c3814aa5dc19c7e28dbed1c67
+U
+%src/main/scala/calculator/untitled.sc,4/d/4decf40c5cb0170f8b76668c564fcd00d0de22a0
+Z
+*src/main/scala/calculator/Polynomial.scala,4/1/41645fadc6f1f13fbf021c49b58a16682400b477
+Z
+*src/main/scala/calculator/Interfaces.scala,3/b/3b5d117f7cca89624561a8916282a145b6c665e0
+Z
+*src/main/scala/calculator/Calculator.scala,e/f/ef0ce69091294d096ef072d3530ca780a9e0b900
+_
+/src/test/scala/calculator/CalculatorSuite.scala,6/2/622da3baacace2fe6c24425096f88500f0ad8e46
+[
++src/main/scala/calculator/TweetLength.scala,5/5/558aa3e6bdb173950dfc67887031469bc75de2ba
+V
+&src/main/scala/calculator/Signal.scala,9/a/9a42a2d27be60a695fc73c2233e102aba7706f98

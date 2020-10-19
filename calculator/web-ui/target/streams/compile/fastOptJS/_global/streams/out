@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /Users/kex/Desktop/Квартплата24/3 Functional Program Design in Scala/5 неделя/calculator/web-ui/target/scala-2.13/webui-fastopt.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 194434 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 24156 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasic Linking: 223823 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Batch mode: false[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Incremental part: 8248 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizing 7 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizer part: 2351 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: 12600 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 74456 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 2401 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 77109 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 723 -- invalidated: 8[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: resued: 1814 -- invalidated: 3[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter (write output): 43320 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 14 -- invalidated: 14 -- trees read: 8[0m
