@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/kex/Desktop/Квартплата24/4%20Parallel%20programming/1%20неделя/scalashop/project/"), "scalashop-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/kex/Desktop/Квартплата24/4%20Parallel%20programming/1%20неделя/scalashop/project/"), "scalashop-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
