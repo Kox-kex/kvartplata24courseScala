@@ -1,0 +1,11 @@
+[debug] > Exec(runMain App  OOOO, Kex, 25251, None, None)
+[debug] Evaluating tasks: Compile / runMain
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources to /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/target/scala-2.13/classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.3. Compiling...
+[info]   Compilation completed in 8.6s.
+[info] done compiling
+[error] Nonzero exit code: 1
+[error] (Compile / runMain) Nonzero exit code: 1
+[error] Total time: 14 s, completed 12 нояб. 2020 г., 10:38:46
+[debug] > Exec(idea-shell, None, None)

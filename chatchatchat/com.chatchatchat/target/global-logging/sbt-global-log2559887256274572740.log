@@ -1,0 +1,8 @@
+[debug] > Exec(sfs, None, None)
+[error] Not a valid command: sfs (similar: tasks, set, iflast)
+[error] Not a valid project ID: sfs
+[error] Expected ':'
+[error] Not a valid key: sfs (similar: ps)
+[error] sfs
+[error]    ^
+[debug] > Exec(idea-shell, None, None)

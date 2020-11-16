@@ -1,0 +1,13 @@
+[debug] > Exec(runMain App user, kooooox, kex, 25251, None, None)
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.
+[debug] Evaluating tasks: Compile / runMain
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[error] Nonzero exit code: 1
+[error] (Compile / runMain) Nonzero exit code: 1
+[error] Total time: 3 s, completed 12 нояб. 2020 г., 10:47:48
+[debug] > Exec(idea-shell, None, None)

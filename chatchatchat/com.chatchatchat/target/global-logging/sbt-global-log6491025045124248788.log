@@ -1,0 +1,5 @@
+[debug] > Exec(runMain App kjkv kjjk lklkl 25251, None, None)
+[debug] Evaluating tasks: Compile / runMain
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/target/scala-2.13/classes ...
+[info] done compiling

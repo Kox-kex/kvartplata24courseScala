@@ -1,0 +1,9 @@
+[debug] > Exec(runMain App user, kooooox, kex, 25251, None, None)
+[debug] Evaluating tasks: Compile / runMain
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/target/scala-2.13/classes ...
+[info] done compiling
+[error] Nonzero exit code: 1
+[error] (Compile / runMain) Nonzero exit code: 1
+[error] Total time: 7 s, completed 12 нояб. 2020 г., 12:12:10
+[debug] > Exec(idea-shell, None, None)

@@ -1,0 +1,103 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""/private/var/folders/49/lkdghk4d3x74yvb4_dvfr6fh0000gn/T/idea1590.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""/private/var/folders/49/lkdghk4d3x74yvb4_dvfr6fh0000gn/T/idea1590.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.4.2 (JetBrains s.r.o. Java 11.0.8)
+[debug]       Load.loadUnit: plugins took 140.279839ms
+[debug]       Load.loadUnit: defsScala took 0.44248ms
+[debug] [Loading] Scanning directory /Users/kex/.sbt/1.0/plugins
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in /Users/kex/.sbt/1.0/plugins, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(List(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin))), Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 39.492416 ms
+[debug]           Load.resolveProject(global-plugins) took 82.506291ms
+[debug]         Load.loadTransitive: finalizeProject(Project(id global-plugins, base: /Users/kex/.sbt/1.0/plugins, plugins: List(<none>))) took 183.153736ms
+[debug] [Loading] Done in /Users/kex/.sbt/1.0/plugins, returning: (global-plugins)
+[debug]       Load.loadUnit: loadedProjectsRaw took 211.301295ms
+[debug]       Load.loadUnit: cleanEvalClasses took 0.34799ms
+[debug]     Load.loadUnit(file:/Users/kex/.sbt/1.0/plugins/, ...) took 368.393511ms
+[debug]   Load.apply: load took 1090.998795ms
+[debug]   Load.apply: resolveProjects took 8.552664ms
+[debug]   Load.apply: finalTransforms took 83.856801ms
+[debug]   Load.apply: config.delegates took 9.431491ms
+[debug]   Load.apply: Def.make(settings)... took 709.654164ms
+[debug]   Load.apply: structureIndex took 186.969373ms
+[debug]   Load.apply: mkStreams took 2.023843ms
+[info] loading global plugins from /Users/kex/.sbt/1.0/plugins
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Load.defaultLoad until apply took 4563.273599ms
+[debug]           Load.loadUnit: plugins took 25.743626ms
+[debug]           Load.loadUnit: defsScala took 0.006479ms
+[debug] [Loading] Scanning directory /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/project
+[debug]             Load.loadUnit: mkEval took 9.336478ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(List(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin))), Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 2.466689 ms
+[info] loading settings for project com-chatchatchat-build from idea1590.sbt ...
+[debug]               Load.resolveProject(com-chatchatchat-build) took 3.388868ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id com-chatchatchat-build, base: /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/project, plugins: List(<none>))) took 6.554505ms
+[debug] [Loading] Done in /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/project, returning: (com-chatchatchat-build)
+[debug]           Load.loadUnit: loadedProjectsRaw took 159.650262ms
+[debug]           Load.loadUnit: cleanEvalClasses took 3.673741ms
+[debug]         Load.loadUnit(file:/Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/project/, ...) took 190.152231ms
+[debug]       Load.apply: load took 191.522545ms
+[debug]       Load.apply: resolveProjects took 0.118211ms
+[debug]       Load.apply: finalTransforms took 12.730312ms
+[debug]       Load.apply: config.delegates took 0.39667ms
+[debug]       Load.apply: Def.make(settings)... took 103.536641ms
+[debug]       Load.apply: structureIndex took 36.753697ms
+[debug]       Load.apply: mkStreams took 0.003542ms
+[info] loading project definition from /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug]     Load.loadUnit: plugins took 686.45543ms
+[debug]     Load.loadUnit: defsScala took 0.003873ms
+[debug] [Loading] Scanning directory /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat
+[debug]       Load.loadUnit: mkEval took 0.218422ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(List(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin))), Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(org.jetbrains.sbt.StructurePlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(org.jetbrains.sbt.IdeaShellPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(org.jetbrains.sbt.StructurePlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(org.jetbrains.sbt.IdeaShellPlugin))), Clause(And(Set(Atom(sbt.plugins.CorePlugin), Atom(sbt.plugins.JvmPlugin))),Set(Atom(org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin)))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.SemanticdbPlugin,org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin,sbt.plugins.JUnitXmlReportPlugin,org.jetbrains.sbt.IdeaShellPlugin,org.jetbrains.sbt.StructurePlugin,sbt.plugins.MiniDependencyTreePlugin)
+[debug] Plugins.deducer#function took 2.878121 ms
+[info] loading settings for project com-chatchatchat from build.sbt ...
+[debug]         Load.resolveProject(com-chatchatchat) took 34.368003ms
+[debug]       Load.loadTransitive: finalizeProject(Project(id com-chatchatchat, base: /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat, plugins: List(<none>))) took 38.610161ms
+[debug] [Loading] Done in /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat, returning: (com-chatchatchat)
+[debug]     Load.loadUnit: loadedProjectsRaw took 105.886757ms
+[debug]     Load.loadUnit: cleanEvalClasses took 4.434322ms
+[debug]   Load.loadUnit(file:/Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/, ...) took 797.52748ms
+[debug] Load.apply: load took 799.118165ms
+[debug] Load.apply: resolveProjects took 0.116257ms
+[debug] Load.apply: finalTransforms took 31.794306ms
+[debug] Load.apply: config.delegates took 0.356491ms
+[debug] Load.apply: Def.make(settings)... took 91.742016ms
+[debug] Load.apply: structureIndex took 25.136564ms
+[debug] Load.apply: mkStreams took 0.002934ms
+[info] set current project to com.chatchatchat (in build file:/Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(notifyUsersAboutShell, None, None)
+[debug] > Exec(iflast shell, None, None)
+[debug] > Exec(; set ideaPort in Global := 57369 ; idea-shell, None, None)
+[debug] > Exec(set ideaPort in Global := 57369, None, None)
+[info] Defining Global / ideaPort
+[info] The new value will be used by Compile / compile, Test / compile
+[debug] Defining 
+[debug] 	Global / ideaPort
+[debug] 
+[debug] The new value will be used by 
+[debug] 	Compile / compile
+[debug] 	Test / compile
+[info] Reapplying settings...
+[info] set current project to com.chatchatchat (in build file:/Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/)
+[debug] > Exec(idea-shell, None, None)

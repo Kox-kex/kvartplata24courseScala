@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(runMain App user, kooooox, kex, 25251, Some(f62db341-d2b8-43d1-8495-9a8795dc11d4), Some(CommandSource(console0)))[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / runMain[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mcompiling 3 Scala sources to /Users/kex/Desktop/projekts/akka/chatchatchat/com.chatchatchat/target/scala-2.13/classes ...[0m[0J
+[0m[[0m[31merror[0m] [0m[0mNonzero exit code: 1[0m[0J
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrunMain[0m) Nonzero exit code: 1[0m[0J
+[0m[[0m[31merror[0m] [0m[0mTotal time: 8 s, completed 12 нояб. 2020 г., 12:24:46[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m[0J

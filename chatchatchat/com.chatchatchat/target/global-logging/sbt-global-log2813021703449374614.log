@@ -1,0 +1,8 @@
+[debug] > Exec(bnb, None, None)
+[error] Not a valid command: bnb (similar: new)
+[error] Not a valid project ID: bnb
+[error] Expected ':'
+[error] Not a valid key: bnb (similar: bgRun, run)
+[error] bnb
+[error]    ^
+[debug] > Exec(idea-shell, None, None)
