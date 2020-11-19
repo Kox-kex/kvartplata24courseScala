@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(runMain App jiji ijij oko 25251, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / runMain[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 4 Scala sources to /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kex/Desktop/projekts/akka/com.demoCHAT/src/main/scala/Chat.scala:26:52: too many arguments (found 2, expected 1) for method apply: (message: T): akka.actor.typed.pubsub.Topic.Command[T] in object Publish[0m
+[0m[[0m[31merror[0m] [0m[0m          topic ! Topic.Publish("my-topic", Message(msg, name))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 4 s, completed 17 нояб. 2020 г., 21:10:36[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

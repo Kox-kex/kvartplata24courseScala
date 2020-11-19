@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/com-chatchatchat_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CborSerializable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/CborSerializable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/Chat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chat$Message$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/Chat$Message$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/Chat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$Tick$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/User$Tick$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/User$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chat$Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/Chat$Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App$RootBehavior$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/App$RootBehavior$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chat$BroadcastMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/Chat$BroadcastMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chat$BroadcastMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/Chat$BroadcastMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	applicatoin.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/applicatoin.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chat$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kex/Desktop/projekts/akka/com.demoCHAT/target/scala-2.13/classes/Chat$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

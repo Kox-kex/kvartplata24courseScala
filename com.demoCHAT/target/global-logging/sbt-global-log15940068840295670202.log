@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(/Users/kex/Desktop/projekts/akka/com.demoCHATrunMain App kj kjkj kjkj 25251, Some(7a57bb9f-a35f-4cb7-8af3-43b193a8a3df), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mExpected symbol[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: /[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kex/Desktop/projekts/akka/com.demoCHATrunMain App kj kjkj kjkj 25251[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
